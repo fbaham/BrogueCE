@@ -2,7 +2,7 @@
 DATADIR := .
 
 # Host and target platform. Values: LINUXLIKE, WINDOWS, OS2
-SYSTEM := LINUXLIKE
+SYSTEM := WINDOWS
 
 # Include terminal support. Requires ncurses
 TERMINAL := NO
